@@ -10,7 +10,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/Azure/go-amqp/internal/buffer"
+	"github.com/adalstes/go-amqp/internal/buffer"
 )
 
 type AMQPType uint8

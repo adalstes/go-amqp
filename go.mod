@@ -1,4 +1,4 @@
-module github.com/Azure/go-amqp
+module github.com/adalstes/go-amqp
 
 go 1.13
 

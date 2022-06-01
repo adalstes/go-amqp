@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Azure/go-amqp/internal/encoding"
-	"github.com/Azure/go-amqp/internal/frames"
+	"github.com/adalstes/go-amqp/internal/encoding"
+	"github.com/adalstes/go-amqp/internal/frames"
 )
 
 type messageDisposition struct {
