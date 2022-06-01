@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Azure/go-amqp/internal/encoding"
+	"github.com/adalstes/go-amqp/internal/encoding"
 )
 
 // Error Conditions

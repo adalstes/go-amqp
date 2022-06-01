@@ -3,8 +3,8 @@ package amqp
 import (
 	"fmt"
 
-	"github.com/Azure/go-amqp/internal/encoding"
-	"github.com/Azure/go-amqp/internal/frames"
+	"github.com/adalstes/go-amqp/internal/encoding"
+	"github.com/adalstes/go-amqp/internal/frames"
 )
 
 // SASL Mechanisms

@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Azure/go-amqp/internal/buffer"
+	"github.com/adalstes/go-amqp/internal/buffer"
 )
 
 // unmarshaler is fulfilled by types that can unmarshal

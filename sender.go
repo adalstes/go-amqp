@@ -7,9 +7,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Azure/go-amqp/internal/buffer"
-	"github.com/Azure/go-amqp/internal/encoding"
-	"github.com/Azure/go-amqp/internal/frames"
+	"github.com/adalstes/go-amqp/internal/buffer"
+	"github.com/adalstes/go-amqp/internal/encoding"
+	"github.com/adalstes/go-amqp/internal/frames"
 )
 
 // Sender sends messages on a single AMQP link.
